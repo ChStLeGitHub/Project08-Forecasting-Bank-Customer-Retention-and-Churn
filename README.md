@@ -1,4 +1,4 @@
-# Project 08: Supervised Learning 
+# Project 08: Forecasting Bank Customer Retention and Churn
  
 **Objective:** To develop a machine learning model for Beta Bank that uses data of customers' demographics and behaviors to predict whether or not a customer is likely to leave the bank soon (since retaining existing customers is more cost-effective than acquiring new ones).
 
